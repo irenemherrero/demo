@@ -25,7 +25,7 @@
       "price": "411,00 €",
       "sim": "Nano-SIM",
       "cpu": "Octa-core (4x2.45 GHz Kryo y 4x1.9 GHz Kryo)",
-      "os" : "Android 7.1 (Nougat), actualizable a Android 8.0 (Oreo)",
+      "system" : "Android 7.1 (Nougat), actualizable a Android 8.0 (Oreo)",
       "ram": "4 GB",
       "languages": ["Árabe", "Indonesio", "Danés", "Inglés", "Francés", "Griego"],
       "bands": [
