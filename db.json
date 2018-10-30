@@ -15,14 +15,35 @@
       "description": "Samsung Galaxy S6 G920F / G920FD Android 5.0 Ram 3GB Network Lte 4G , Bluetooth V4.1 ,  pantalla 5.1 pulgadas , Super AMOLED , Cámara trasera 16.0MP", 
       "color": "white", 
       "price": "189,75 €" 
-      },
+    },
     { 
       "id": 3, 
       "title": "Sony Xperia XZ",
       "image": "https://www.aca-electronic.com/478-thickbox_default/sony-xperia-xz-premium-g8141-ram-4gb-64gb-lte.jpg", 
       "description": "Modelo Xperia XZ Premium Versiones G8141 , CSistema operativo Android 7.1 , RAM 4gb , pantalla 5.46 pulgadas , pantalla IPS LCD , Resolución 3840 x 2160 píxel", 
       "color": "red", 
-      "price": "411,00 €" 
-     }
-   ]   
+      "price": "411,00 €",
+      "sim": "Nano-SIM",
+      "cpu": "CPU Octa-core (4x2.45 GHz Kryo y 4x1.9 GHz Kryo)",
+      "os" : "Android 7.1 (Nougat), actualizable a Android 8.0 (Oreo)",
+      "ram": "4 GB",
+      "languages": ["arabic", "indonesian", "danish", "english", "french", "greek"],
+      "bands": {
+                  "2G": "GSM 850/900/1800/1900",
+                  "3G": "HSDPA 800/850/900/1700 (AWS) / 1900/2100",
+                  "4G": "banda LTE 1 (2100), 2 (1900), 3 (1800), 4 (1700/2100), 5 (850), 7 (2600), 8 (900), 12 (700), 13 (700) 17, 700, 19 800, 20 800, 26 850, 28 700, 29 700, 32 1500, 38 2600, 39 1900, 40 2300 , 41 (2500)"
+      },
+      "screen": {
+                  "size": "5.46 pulgadas, 82.2 cm2",
+                  "type": "IPS LCD pantalla táctil capacitiva, 16M colores",
+                  "resolution": "3840 x 2160 píxeles"
+      },
+      "camera": {
+                  "front": "13 MP",
+                  "back": "19 MP",
+      },
+      "dimensions": "156 x 77 x 7,9 mm",
+      "weight": "195 g"
+    }
+  ]   
 }
