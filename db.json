@@ -33,15 +33,15 @@
                   "3G: HSDPA 800/850/900/1700 (AWS) / 1900/2100",
                   "4G: banda LTE 1 (2100), 2 (1900), 3 (1800), 4 (1700/2100), 5 (850), 7 (2600), 8 (900), 12 (700), 13 (700) 17, 700, 19 800, 20 800, 26 850, 28 700, 29 700, 32 1500, 38 2600, 39 1900, 40 2300, 41 (2500)"
       ],
-      "screen": {
-                  "size": "5.46 pulgadas, 82.2 cm2",
-                  "type": "IPS LCD pantalla táctil capacitiva, 16M colores",
-                  "resolution": "3840 x 2160 píxeles"
-      },
-      "camera": {
-                  "front": "13 MP",
-                  "back": "19 MP"
-      },
+      "screen": [
+                  "size: 5.46 pulgadas, 82.2 cm2",
+                  "type: IPS LCD pantalla táctil capacitiva, 16M colores",
+                  "resolution: 3840 x 2160 píxeles"
+      ],
+      "camera": [
+                  "front: 13 MP",
+                  "back: 19 MP"
+      ],
       "dimensions": "156 x 77 x 7,9 mm",
       "weight": "195 g"
     }
