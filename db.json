@@ -40,7 +40,7 @@
       "cpu": "Qualcomm Snapdragon 820 Quad Core 2.15GHz + 1.6GHz",
       "system" : "Android OS 6.0",
       "ram": "4GB",
-      "languages": ["Chino", "Indonesio", "Japonés", "Inglés", "Español", "Griego"],
+      "languages": null,
       "bands": [
                   "2G: GSM 850/900/1800 / 1900MHz",
                   "3G: WCDMA 850/900/1900 / 2100MHz",
