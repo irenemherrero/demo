@@ -1,14 +1,26 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "devices": [
+    { "id": 1, 
+      "title": "Iphone 7", 
+      "image": "https://www.aca-electronic.com/52-thickbox_default/iphone-7-a1778-32gb-ios10-120mp-ram-2gb-4g-lte.jpg", 
+      "description": "iPhone 7 Modelo A1778 4.7 pulgadas 32Gb iOS 10 12.0MP RAM 2GB Red 4G Lte, CPU Quad-core 2.34 GHz Video 2160p, Resolución 750 x 1334 píxeles", 
+      "color": "black", 
+      "price": "359,06 €" 
+    },
+    { "id": 2, 
+      "title": "Samsung Galaxi S7",
+      "image": "https://www.aca-electronic.com/36-large_default/samsung-galaxy-s6-g920f-g920fd-android-50-ram-3gb-network-lte-4g.jpg", 
+      "description": "Samsung Galaxy S6 G920F / G920FD Android 5.0 Ram 3GB Network Lte 4G , Bluetooth V4.1 ,  pantalla 5.1 pulgadas , Super AMOLED , Cámara trasera 16.0MP", 
+      "color": "white", 
+      "price": "189,75 €" 
+      },
+    { "id": 3, 
+      "title": "Sony Xperia XZ",
+      "image": "https://www.aca-electronic.com/478-thickbox_default/sony-xperia-xz-premium-g8141-ram-4gb-64gb-lte.jpg", 
+      "description": "Modelo Xperia XZ Premium Versiones G8141 , CSistema operativo Android 7.1 , RAM 4gb , pantalla 5.46 pulgadas , pantalla IPS LCD , Resolución 3840 x 2160 píxel", 
+      "color": "red", 
+      "price": "411,00 €" 
+     }
+   ]
+      
 }
