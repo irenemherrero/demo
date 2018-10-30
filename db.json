@@ -22,7 +22,10 @@
       "image": "https://www.aca-electronic.com/478-thickbox_default/sony-xperia-xz-premium-g8141-ram-4gb-64gb-lte.jpg", 
       "description": "Modelo Xperia XZ Premium Versiones G8141 , CSistema operativo Android 7.1 , RAM 4gb , pantalla 5.46 pulgadas , pantalla IPS LCD , Resolución 3840 x 2160 píxel", 
       "color": "red", 
-      "price": "411,00 €"
+      "price": "411,00 €",
+      "sim": "Nano-SIM",
+      "cpu": "CPU Octa-core (4x2.45 GHz Kryo y 4x1.9 GHz Kryo)",
+      "os" : "Android 7.1 (Nougat), actualizable a Android 8.0 (Oreo)"
     }
   ]   
 }
